@@ -9,6 +9,18 @@
     "type" : "git",
     "url" : "https://github.com/metabench/jsgui2-lang.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies" : {
+    "jsgui2-essentials" : "> 0.0.1",
+    "jsgui2-b-plus-tree": "> 0.0.1",
+    "jsgui2-collection": "> 0.0.1",
+    "jsgui2-data-object" : "> 0.0.1",
+    "jsgui2-data-value": "> 0.0.1",
+    "jsgui2-doubly-linked-list": "> 0.0.1",
+    "jsgui2-evented-class" : "> 0.0.1",
+    "jsgui2-ordered-kvs": "> 0.0.1",
+    "jsgui2-ordered-string-list": "> 0.0.1",
+    "jsgui2-sorted-kvs": "> 0.0.1"
+  }
 
 }
