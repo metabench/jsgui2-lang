@@ -10,6 +10,13 @@ var Ordered_KVS = require('jsgui2-ordered-kvs');
 var Ordered_String_List = require('jsgui2-ordered-string-list');
 var Sorted_KVS = require('jsgui2-sorted-kvs');
 
+// util...
+
+var util = require('jsgui2-util');
+
+
+
+
 jsgui.B_Plus_Tree = B_Plus_Tree;
 jsgui.Collection = Collection;
 jsgui.Data_Object = Data_Object;
@@ -21,3 +28,4 @@ jsgui.Ordered_String_List = Ordered_String_List;
 jsgui.Sorted_KVS = Sorted_KVS;
 
 module.exports = jsgui;
+
